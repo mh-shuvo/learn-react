@@ -1,0 +1,29 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Feni",
+            "checked": false
+        },
+        {
+            "id": 2,
+            "title": "Dhaka",
+            "checked": false
+        },
+        {
+            "id": 3,
+            "title": "Chittagong",
+            "checked": true
+        },
+        {
+            "id": 4,
+            "title": "Gazipur",
+            "checked": false
+        },
+        {
+            "id": 5,
+            "title": "Cumilla",
+            "checked": true
+        }
+    ]
+}

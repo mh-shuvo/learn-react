@@ -1,0 +1,23 @@
+.MainBlock{
+  height: 250px;
+  width: 250px;
+  border: 2px solid black;
+  border-radius: 15px;
+  margin-top: 50%;
+  margin-left: calc(50% - 100px);
+  text-align: center;
+}
+.MainBlock h4{
+  margin-top: 50%;
+  font-size: 25px; 
+}
+.AddColorInput{
+  margin-top: 10px;
+  width: 250px;
+  height: 40px;
+  margin-left: 60px;
+  border: 2px solid black;
+  border-radius: 15px;
+  font-size: 20px;
+  text-align: center;
+}
